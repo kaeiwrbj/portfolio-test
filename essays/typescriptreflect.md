@@ -12,7 +12,7 @@ labels:
 Recently I’ve gotten to experience my first ever “Workout of the Day” in my new ICS314 class. Using a method called “Athletic Software Engineering,” students in this class were sat down with a time limit, and were asked to complete a moderately difficult exercise with the allotted time with a brand new language: Typescript. After completing the exercise, I left feeling good and productive, and see now how this method allows for students to prepare for real jobs, even if there are some things that I would change.
 
 <div class="text-center p-4">
-!["Typescript shares many elements of Javascript whilst also adding many useful features and systems."]([<img width="1400" height="788" alt="image" src="https://github.com/user-attachments/assets/21695ace-72a9-4354-8b21-3c63ac9aeff5" />](https://miro.medium.com/v2/resize:fit:1400/1*N6ugtpXET1pOLysSk_DWaQ.png)
+[<img width="700" height="394" alt="image" src="https://github.com/user-attachments/assets/21695ace-72a9-4354-8b21-3c63ac9aeff5" />](https://miro.medium.com/v2/resize:fit:1400/1*N6ugtpXET1pOLysSk_DWaQ.png)
 </div>
 
 
