@@ -12,7 +12,7 @@ labels:
 Recently I’ve gotten to experience my first ever “Workout of the Day” in my new ICS314 class. Using a method called “Athletic Software Engineering,” students in this class were sat down with a time limit, and were asked to complete a moderately difficult exercise with the allotted time with a brand new language: Typescript. After completing the exercise, I left feeling good and productive, and see now how this method allows for students to prepare for real jobs, even if there are some things that I would change.
 
 <div class="text-center p-4">
-[<img width="700" height="394" alt="image" src="https://github.com/user-attachments/assets/21695ace-72a9-4354-8b21-3c63ac9aeff5" />]
+<img width="525" height="296" alt="image" src="https://github.com/user-attachments/assets/21695ace-72a9-4354-8b21-3c63ac9aeff5" />
 </div>
 
 
