@@ -1,4 +1,4 @@
-<img width="612" height="612" alt="image" src="https://github.com/user-attachments/assets/b0200924-6d78-443f-9e22-6e95e7b62c30" />---
+/>---
 layout: essay
 type: essay
 title: "Reflection - TypeScript & 'Athletic Software Engineering'"
