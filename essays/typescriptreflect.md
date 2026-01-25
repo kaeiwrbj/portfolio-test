@@ -1,4 +1,4 @@
-/>---
+---
 layout: essay
 type: essay
 title: "Reflection - TypeScript & 'Athletic Software Engineering'"
