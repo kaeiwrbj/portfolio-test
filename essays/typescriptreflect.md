@@ -11,6 +11,9 @@ labels:
 
 Recently I’ve gotten to experience my first ever “Workout of the Day” in my new ICS314 class. Using a method called “Athletic Software Engineering,” students in this class were sat down with a time limit, and were asked to complete a moderately difficult exercise with the allotted time with a brand new language: Typescript. After completing the exercise, I left feeling good and productive, and see now how this method allows for students to prepare for real jobs, even if there are some things that I would change.
 
+!["Typescript shares many elements of Javascript whilst also adding many useful features and systems."](<img width="1400" height="788" alt="image" src="https://github.com/user-attachments/assets/21695ace-72a9-4354-8b21-3c63ac9aeff5" />)
+
+
 ## TypeScript Reflection
 
 Typescript is a robust language that allows for the development of scalable web applications, and an essential part of the web application development process. It is a very robust and flexible language, which makes it accessible to beginners whilst still allowing for very technical and sophisticated applications. I found Typescript very intuitive; it reminds me very much of Python in terms of its readability and flexibility in many scenarios. I say this in high praise, as Python is often looked at as the gold standard for accessible syntax.
