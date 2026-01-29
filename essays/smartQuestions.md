@@ -1,5 +1,6 @@
 ---
 layout: essay
+type: essay
 title: "Why Smart Questions Matter"
 date: 2026-01-28
 labels: [Software Engineering, Communication, Stack Overflow]
@@ -34,3 +35,4 @@ This user also uploads an entire project file for others to look through instead
 ## Personal Insights
 
 Learning about Raymond’s principles in becoming and effective question-asker has given me a lot of newfound perspective in how I type up questions to my peers and mentors. Being precise in the questions I ask online or with my professors isn’t necessarily entirely about just getting an answer, but it also has implications on my reputation in the developer community around me. Becoming an effective communicator will greatly improve my workflow and the workflow of others.
+
